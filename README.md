@@ -23,7 +23,7 @@ I might update this application to provide more options, but the bash script was
 
 Constructive advice on coding practice is welcome.
 
-With thanks to goexif library: "github.com/rwcarlsen/goexif/exif"
+With thanks to goexif library: "github.com/rwcarlsen/goexif"
 
 With thanks to Exifsorter for providing a template to start from.
 See: github.com/mrauh/exifsorter
